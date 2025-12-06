@@ -2,6 +2,7 @@ Python Salary Automation
 
 Hey there! I built this small Python project to make salary calculations less stressful.
 Instead of manually crunching numbers for salaries, deductions, and bonuses, this little tool does it automatically and even generates neat reports!
+
 ---
 ## Features
 
