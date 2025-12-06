@@ -1,6 +1,6 @@
 Python Salary Automation 
 
-I built this small Python project to make salary calculations easier and less stressful. Instead of manually calculating salaries, deductions, and bonuses for your employees, this tool does it automatically and even generates neat reports! 📝
+I built this small Python project to make salary calculations easier and less stressful. Instead of manually calculating salaries, deductions, and bonuses for your employees, this tool does it automatically and even generates neat reports! 
 
 #Features 
 
