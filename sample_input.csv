@@ -1,0 +1,4 @@
+employee_id,name,base_salary,days_present,total_working_days,allowances,other_deductions
+101,Anita Sharma,50000,22,26,2000,500
+102,Raj Patel,35000,24,26,1500,300
+103,Meera Singh,28000,18,26,1000,200

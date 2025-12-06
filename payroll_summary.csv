@@ -1,0 +1,4 @@
+employee_id,name,base_salary,days_present,total_working_days,allowances,other_deductions,prorated_salary,gross_salary,tax,total_deductions,net_salary
+101,Anita Sharma,50000,22,26,2000,500,42307.69,44307.69,4430.77,4930.77,39376.92
+102,Raj Patel,35000,24,26,1500,300,32307.69,33807.69,3380.77,3680.77,30126.92
+103,Meera Singh,28000,18,26,1000,200,19384.62,20384.62,2038.46,2238.46,18146.15
